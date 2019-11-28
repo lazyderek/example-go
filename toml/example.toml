@@ -1,0 +1,18 @@
+
+#title = "toml example"
+
+[Person]
+name = "derek"
+age = 99
+
+[Game]
+name = "bird"
+size = 19000
+company = "LazyGame"
+
+[product]
+name = "app"
+phones = ["10086", "10010"]
+
+#[product.sub]
+#name = "dedao"
